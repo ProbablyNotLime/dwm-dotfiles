@@ -1,14 +1,5 @@
 #!/bin/sh
 
-# A modular status bar for dwm
-# Joe Standring <git@joestandring.com>
-# GNU GPLv3
-
-# Dependencies: xorg-xsetroot
-
-# Import functions with "$include /route/to/module"
-# It is recommended that you place functions in the subdirectory ./bar-functions and use: . "$DIR/bar-functions/dwm_example.sh"
-
 # Store the directory the script is running from
 LOC=$(readlink -f "$0")
 DIR=$(dirname "$LOC")
