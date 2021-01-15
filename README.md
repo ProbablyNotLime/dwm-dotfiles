@@ -6,7 +6,7 @@ Hello this is my dwm config files
 ![ss2](Screenshot_2021-01-15_21-12-29.png)
 
 ### Important!
-All of the patches .dif files is included in the repo
+All of the patches .diff files is included in the repo
 (I use .xprofile to autostart)
 
 # Thanks
